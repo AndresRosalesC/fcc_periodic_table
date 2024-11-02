@@ -1,4 +1,4 @@
-# Periodic Table Info
+# Periodic Table Database
 Program that extracts info from a periodic table database based on input
 
 ## Instructions:
